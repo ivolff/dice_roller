@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dice Roller</title>
+    <script src="../js/main.js"></script>
+    <script src="../js/bootstrap.js"></script>
+    <script src="3D_flex.js"></script>
+    <link rel="stylesheet" href="../css/bootstrap.css">
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="index.html">Dice Roller</a>
+    <div class="btn-group">
+        <button onclick="simple_roll(4)" type="button" class="btn btn-secondary">d4</button>
+        <button onclick="simple_roll(6)" type="button" class="btn btn-secondary">d6</button>
+        <button onclick="simple_roll(8)" type="button" class="btn btn-secondary">d8</button>
+        <button onclick="simple_roll(10)" type="button" class="btn btn-secondary">d10</button>
+        <button onclick="simple_roll(12)" type="button" class="btn btn-secondary">d12</button>
+        <button onclick="simple_roll(20)" type="button" class="btn btn-secondary">d20</button>
+    </div>
+    <a class="navbar-brand" href="multiroll.html">Multiroller</a>
+</nav>
+
+ <!--<div class="btn-group">
+        <button onclick="simple_roll(4)" type="button" class="btn btn-secondary">d4</button>
+        <button onclick="simple_roll(6)" type="button" class="btn btn-secondary">d6</button>
+        <button onclick="simple_roll(8)" type="button" class="btn btn-secondary">d8</button>
+        <button onclick="simple_roll(10)" type="button" class="btn btn-secondary">d10</button>
+        <button onclick="simple_roll(12)" type="button" class="btn btn-secondary">d12</button>
+        <button onclick="simple_roll(20)" type="button" class="btn btn-secondary">d20</button>
+ </div>-->
+
+<data id="ThreeJS" style="position: center; right:50%; top:100px; margin-top: 10px"></data>
+</body>
+</html>

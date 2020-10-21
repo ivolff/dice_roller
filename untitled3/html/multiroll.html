@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dice Roller</title>
+    <script src="../js/main.js"></script>
+    <script src="../js/bootstrap.js"></script>
+    <link rel="stylesheet" href="../css/bootstrap.css">
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="index.html" style="margin-left: 10px">Dice Roller</a>
+    <a class="navbar-brand" href="multiroll.html">Multiroller</a>
+</nav>
+<!--
+<textarea id = "TextInput"></textarea>
+<button onclick="string_parcer()">roll</button>
+<textarea id = "TextOutput"></textarea>
+<p><input type = "checkbox" id = "sum"> sum</p>
+<p><input type = "checkbox" id = "min"> min</p>
+<p><input type = "checkbox" id = "max"> max</p>
+-->
+<table class="table table-bordered"  align="center" style="width: fit-content;">
+    <thead>
+    <tr>
+        <th style="width: 100px">dType</th>
+        <th>dCount</th>
+        <th>Roll result</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th scope="row">d4</th>
+        <td><input class="form-control" value="0" id = "d4count"></td>
+        <th><output type="text" id = d4output></output></th>
+    </tr>
+    <tr>
+        <th scope="row">d6</th>
+        <td><input class="form-control" value="0" id = "d6count"></td>
+        <th><output type="text" id = d6output></output></th>
+    </tr>
+    <tr>
+        <th scope="row">d8</th>
+        <td><input class="form-control" value="0" id = "d8count"></td>
+        <th><output type="text" id = d8output></output></th>
+    </tr>
+    <tr>
+        <th scope="row">d10</th>
+        <td><input class="form-control" value="0" id = "d10count"></td>
+        <th><output type="text" id = d10output></output></th>
+    </tr>
+    <tr>
+        <th scope="row">d12</th>
+        <td><input class="form-control" value="0" id = "d12count"></td>
+        <th><output type="text" id = d12output></output></th>
+    </tr>
+    <tr>
+        <th scope="row">d20</th>
+        <td><input class="form-control" value="0" id = "d20count"></td>
+        <th><output type="text" id = d20output></output></th>
+    </tr>
+    <tr>
+        <th scope="row">dN</th>
+        <td><input class="form-control" value="0" id = "TextInput"></td>
+        <th><output type="text" id = dNoutput></output></th>
+    </tr>
+    <tr>
+        <th><button onclick="start()" type="button" class="btn btn-dark" style="width: 100%; height: 100%">Roll</button></th>
+        <td>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="min" onclick="do_min()">
+                <label class="form-check-label" for="min">min</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="max" onclick="do_max()">
+                <label class="form-check-label" for="max">max</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="sum" onclick="do_sum()">
+                <label class="form-check-label" for="sum">sum</label>
+            </div>
+        </td>
+        <th><textarea id = "Output"></textarea></th>
+    </tr>
+    </tbody>
+</table>
+
+
+<!--<table>
+    <tr>
+        <th>d4</th>
+        <th><input value="0" id = "d4count"></th>
+    </tr>
+    <tr>
+        <th>d6</th>
+        <th><input value="0" id = "d6count"></th>
+    </tr>
+    <tr>
+        <th>d8</th>
+        <th><input value="0" id = "d8count"></th>
+    </tr>
+    <tr>
+        <th>d10</th>
+        <th><input value="0" id = "d10count"></th>
+    </tr>
+    <tr>
+        <th>d12</th>
+        <th><input value="0" id = "d12count"></th>
+    </tr>
+    <tr>
+        <th>d20</th>
+        <th><input value="0" id = "d20count"></th>
+    </tr>
+    <tr>
+        <th>d<input value="0" id = "Ncount" lang="10px"></th>
+        <th><input value="0" id = "dncount"></th>
+    </tr>
+    <tr>
+        <th><button onclick="table_parcer()">roll</button></th>
+        <th><textarea id = "TableOutput"></textarea></th>
+    </tr>
+</table>-->
+</body>
+</html>
