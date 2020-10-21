@@ -20,7 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c9d511-dfa0-47d0-bb9c-9d91808c29b3" name="Default Changelist" comment="-">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Dice3D.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/.idea/untitled3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/html/multiroll.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/multiroll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +81,15 @@
     <option name="defaultAccountId" value="809b79d9-aadb-4d64-a8f4-77f58b2caa47" />
   </component>
   <component name="ProjectId" id="1iux8rb87OtT40nTvlqFlevLwZb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -65,6 +104,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Firefox Remote.Unnamed">
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
@@ -90,6 +137,7 @@
       <workItem from="1602855868480" duration="11822000" />
       <workItem from="1603033027451" duration="9724000" />
       <workItem from="1603217133381" duration="634000" />
+      <workItem from="1603292569647" duration="5583000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1603046561291</created>
@@ -98,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603046561291</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-">
+      <created>1603292974222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603292974222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,8 +169,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="aa" />
     <MESSAGE value="-" />
     <option name="LAST_COMMIT_MESSAGE" value="-" />
@@ -197,10 +254,10 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="0" y="84" width="1016" height="742" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1603045176705" />
-    <state x="0" y="195" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1603046566706">
+    <state x="0" y="190" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1603292978760">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="0" y="195" width="800" height="540" key="Vcs.Push.Dialog.v2/0.27.1600.873@0.27.1600.873" timestamp="1603046566706" />
+    <state x="0" y="190" width="800" height="540" key="Vcs.Push.Dialog.v2/0.27.1600.873@0.27.1600.873" timestamp="1603292978760" />
     <state x="184" y="374" width="432" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603044517632">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
